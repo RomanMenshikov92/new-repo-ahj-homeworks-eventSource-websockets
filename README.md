@@ -1,6 +1,8 @@
 # Домашнее задание к занятию "8. EventSource, Websockets"
 
-![CI](https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-eventSource-websockets/actions/workflows/web.yml/badge.svg)
+<!-- ![CI](https://github.com/RomanMenshikov92/new-repo-ahj-homeworks-eventSource-websockets/actions/workflows/web.yml/badge.svg) -->
+
+### Здесь [github-pages](https://romanmenshikov92.github.io/new-repo-ahj-homeworks-eventSource-websockets/)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/a8e9hvbawbkp3m11?svg=true)](https://ci.appveyor.com/project/RomanMenshikov92/new-repo-ahj-homeworks-eventsource-websockets)
 
